@@ -2,6 +2,9 @@
 
 Notable changes to the meta docs, newest first. Every push adds its changes here.
 
+## 2026-11-27 (obs-0031 corrected)
+- obs-0031 retitled "Jumping out of Broski's throw loop didn't pay". It had said a throw on the wake-up frame catches a jump; a jump held on wake-up always beats a throw, so jumping out is a read (it can't be done on reaction), and the likely reason opponents stopped is that the jump got hit 15 times out of 17.
+
 ## 2026-11-27 (observations obs-0029 to obs-0034)
 - obs-0029: corner time is measured from every capture (definition, first numbers).
 - obs-0030: A.K.I. has two fireballs (light 52f, OD 44f), not light / medium / heavy; corrects the advice behind obs-0027.
