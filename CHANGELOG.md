@@ -2,6 +2,13 @@
 
 Notable changes to the meta docs, newest first. Every push adds its changes here.
 
+## 2026-11-27 (observations obs-0035 to obs-0039)
+- obs-0035: Space spectrum: the set winner takes more ground in 76% of sets.
+- obs-0036: Adaptability redefined (did the opponent's best first-half weapon keep working); revises obs-0008.
+- obs-0037: Cash-in spectrum: the share of Drive and super spent in combos that landed; winner higher in 68% of sets.
+- obs-0038: generated archetype reads recalibrated against the pool (four reads; Fundamentalist 75% won in ranked, with caveats).
+- obs-0039: what notable players do that their opponents don't (counter hits and corner control held for all six with enough sets).
+
 ## 2026-11-27 (obs-0031 corrected)
 - obs-0031 retitled "Jumping out of Broski's throw loop didn't pay". It had said a throw on the wake-up frame catches a jump; a jump held on wake-up always beats a throw, so jumping out is a read (it can't be done on reaction), and the likely reason opponents stopped is that the jump got hit 15 times out of 17.
 
